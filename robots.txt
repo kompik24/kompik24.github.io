@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ddedru.github.io/sitemap.xml
+Sitemap: https://kompik24.github.io/sitemap.xml
